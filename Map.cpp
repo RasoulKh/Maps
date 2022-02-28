@@ -61,6 +61,9 @@ int main()
 
 /* ---------- Second map:  Plants ----------- */
 
+/* ---------- Values are a list type ----------- */
+    
+
     list<string> monstera {"Deliciosa", "Adansonii", "siltepecana", "dubia"};
     list<string> philodendron {"Pink Princess", "Pinantrum", "Silver sword"};
     list<string> ficus {"Elastica", "Lyrata"};
@@ -86,6 +89,8 @@ int main()
     }
 
     /* ---------- Third map:  Age and the vector of employees with the same age ----------- */
+    
+    /* ---------- Values are a class type ----------- */
 
     Person P1 = Person(35, "Rasoul");
     Person P2 = Person(31, "Ida");
